@@ -9,3 +9,10 @@ Program Ini Menerapkan:
 - Login
 - Modular
 - Error Handling
+
+
+# Cara Menjalankan Program
+1. Download DevC++ https://sourceforge.net/projects/orwelldevcpp/ untuk Complier bahasa C( Jika Sudah Punya maka tidak perlu download lagi)
+2. Clone or Download Filenya di Github https://github.com/mfnovriansyah/ProgramBantuPilihBarang.git
+3. Jalankan File ProgramBantuPilihBarang.c untuk melihat source codenya dan compile dengan DevC++
+4. Jalankan file ProgramBantuPilihBarang.exe untuk menjalankan programnya

@@ -18,3 +18,6 @@ Program Ini Menerapkan:
 2. Clone or Download Filenya di Github https://github.com/mfnovriansyah/ProgramBantuPilihBarang.git
 3. Jalankan File ProgramBantuPilihBarang.c untuk melihat source codenya dan compile dengan DevC++
 4. Jalankan file ProgramBantuPilihBarang.exe untuk menjalankan programnya
+5. Masukan Username : fahrizasamuel , Password : keren
+6. Tekan 1 untuk Pilih Program Bantu Pilih Barang, Tekan 2 Untuk Help , Tekan 3 Untuk Keluar
+

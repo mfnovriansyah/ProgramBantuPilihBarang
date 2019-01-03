@@ -11,7 +11,7 @@ Program Ini Menerapkan:
 - Login
 - Modular
 - Error Handling
-
+- Fitur Help
 
 # Cara Menjalankan Program
 1. Download DevC++ https://sourceforge.net/projects/orwelldevcpp/ untuk Complier bahasa C( Jika Sudah Punya maka tidak perlu download lagi)
